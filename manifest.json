@@ -1,0 +1,14 @@
+{
+    "name": "__MSG_appName__",
+    "version": "6.4.6",
+    "description": "__MSG_appDesc__",
+    "author": "Jonathan Kamens",
+    "default_locale": "en-US",
+    "homepage_url": "https://blog.kamens.us/send-later/",
+    "legacy": {
+        "options": {
+            "page": "chrome://sendlater3/content/options.xul"
+        }
+    },
+    "manifest_version": 2
+}
